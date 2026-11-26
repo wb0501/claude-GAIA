@@ -1,0 +1,17 @@
+# --- Claude GAIA runner: excluded artifacts --------------------------------
+.venv/
+DATASET/
+results_claude_gaia/
+results_*/
+*.pcap
+*.pcapng
+*.jsonl
+*.log
+*.zip
+__pycache__/
+*.py[cod]
+.cache/
+.env
+.env.*
+auth.json
+.claude/
